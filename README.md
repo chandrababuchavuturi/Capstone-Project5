@@ -6,5 +6,10 @@ https://app.circleci.com/pipelines/github/chandrababuchavuturi/Udacity_Capstone-
 
 [![CircleCI](1c9681b582456fabc29850e45dd2f90461c3ee5b)](https://circleci.com/gh/circleci/circleci-docs)
 
+<p align="center">
+  <a href="https://app.circleci.com/insights/github/udacity/Udacity_Capstone--Cloud-DevOps/workflows/default>?branch=main">
+    <img src="https://dl.circleci.com/insights-snapshot/gh/<org_name>/<project_name>/<branch_name>/<workflow_name>/badge.svg" alt="InsightsSnapshot" />
+  </a>
+</p>
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
